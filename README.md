@@ -1,7 +1,7 @@
 # base_datos_INDEC
 El objetivo de este repositorio es tener los scripts que generan las bases de datos que nos solicita INDEC de manera anual para su anuario. Debe tenerse en cuenta que además de completar el año solicitado se hace una revisión de los datos de la serie para atrás. 
 
-En 2022 nos enviaron 6 archivos (excel):
+En 2023 nos enviaron 6 archivos (excel):
 
 1. Turismo receptivo según vía: se completa con info de tablero (https://tableros.yvera.tur.ar/turismo_internacional/), solo apertura por vía, ya que sino se encuentran diferencias.
 
