@@ -1,3 +1,6 @@
+library(tidyverse)
+library(herramientas)
+library(evyth)
 
 #                  Se crean script para info de anuarios INDEC                   ~~~
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
